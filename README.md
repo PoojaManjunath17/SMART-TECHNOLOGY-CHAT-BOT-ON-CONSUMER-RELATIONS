@@ -3,7 +3,7 @@ Smart Technology – Chat Bot on Consumer Relations” is an AI-based chatbot th
 ## Project Screenshots
 
 ### Home Page
-![Home Page](output.png)
+![code](output.png)
 
 ### Product Details
 ![Product Page](op2.jpeg)
